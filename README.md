@@ -45,7 +45,7 @@ The project explores how household firearm availability relates to homicide and 
 ## Limitations
 
 - **Correlation, not causation.** The analysis shows associations only. Factors such as income, urbanization and policy were not controlled for.
-- **FSS is an indirect proxy** for gun ownership, and it is partly derived from suicide data. This should be kept in mind when interpreting the suicide results.
+- **FSS is an indirect proxy** for gun ownership, and it is calculated entirely from suicide data. This should be kept in mind when interpreting the suicide results.
 - **The 2025–2030 projections** are simple linear trends per state, not validated forecasting models.
 
 ## Tools
@@ -57,6 +57,8 @@ Python, Pandas, NumPy, SciPy, scikit-learn, Matplotlib, Seaborn, Plotly.
 Open `24.ipynb` in Jupyter Notebook or Google Colab and run all cells. The notebook loads `data1.csv` directly from this repository. The analysis narrative inside the notebook is written in Hebrew.
 
 ## Authors
+
+This project was developed jointly by all team members, who worked together on every stage of the analysis.
 
 - [Tamar Gurfinkel](https://github.com/TamarGurfinkel)
 - [Naama Sapir](https://github.com/NaamaSapir)
