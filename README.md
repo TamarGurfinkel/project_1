@@ -50,7 +50,7 @@ The project explores how household firearm availability relates to homicide and 
 
 ## Tools
 
-Python, Pandas, NumPy, SciPy, scikit-learn, Matplotlib, Seaborn, Plotly
+Python, Pandas, NumPy, SciPy, scikit-learn, Matplotlib, Seaborn, Plotly.
 
 ## How to Run
 
