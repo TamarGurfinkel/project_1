@@ -58,6 +58,6 @@ Open `24.ipynb` in Jupyter Notebook or Google Colab and run all cells. The noteb
 
 ## Authors
 
-- Tamar Gurfinkel
-- Naama Sapir
+- [Tamar Gurfinkel](https://github.com/TamarGurfinkel)
+- [Naama Sapir](https://github.com/NaamaSapir)
 - Liav Shamama
